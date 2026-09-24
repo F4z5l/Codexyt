@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "698ad3519549b300a5e1cc6a",
+      "name": "Arjuna JEE 2027",
+      "byName": "For IIT-JEE Aspirants",
+      "startDate": "13 Apr 2026",
+      "endDate": "01 Jul 2028",
+      "language": "Hinglish",
+      "previewImage": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ec947628-7b9d-4c30-bbc4-c0c3e3db78a2.jpeg",
+      "feeTotal": 4999,
+      "type": "E_BATCH",
+      "slug": "arjuna-jee-2027-243495",
+      "subBatches": []
+    }
+  ]
+}
